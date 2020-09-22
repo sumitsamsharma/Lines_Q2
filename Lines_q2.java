@@ -16,8 +16,11 @@ public class Lines_q2
 		int length_2=(int)Math.sqrt((x4-x3)*(x4-x3)+(y4-y3)*(y4-y3));
 		
 		if(length_1==length_2)
-		     System.out.println("Length is Equal");
+		     System.out.println("Both lines are Equal");
+		else if(length_1>length_2)
+			System.out.println("Line 1 is Bigger");
 		else
-			System.out.println("Length is not Equal");
+			System.out.println("Line 2 is Bigger");
+			
 	}
 }
