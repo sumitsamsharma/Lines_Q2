@@ -1,4 +1,4 @@
-package Lines;
+package Line_comparison;
 
 public class Lines_q2 
 {
