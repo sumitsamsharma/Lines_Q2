@@ -1,6 +1,6 @@
 package Line_comparison;
 
-public class Checking_lengths 
+public class Lines_q2 
 {
 	public static void main(String[] args)
 	{
